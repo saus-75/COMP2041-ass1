@@ -1,0 +1,102 @@
+*Grabbed from git log don't really know start and end times.
+
+Date:       Tue Sep 27 23:04:18 2016
+Activity:   Coding/Debuging
+Comments:   Subset 0 fixed
+
+Date:       Sun Oct 2 23:11:41 2016
+Activity:   Coding/Debuging
+Comments:   fixed a syntax error where printing arithmetic operation 
+gives a syntax error
+Date:       Wed Oct 5 17:47:52 2016
+Activity:   Coding/Debuging
+Comments:   Logical Operators done
+
+Date:       Fri Oct 7 21:14:58 2016
+Activity:   Coding/Debuging
+Comments:   printing is broken
+
+Date:       Sat Oct 8 01:09:12 2016
+Activity:   Coding/Debuging
+Comments:   braces are done, foreach is done, formatting looks correct
+
+Date:       Sat Oct 8 01:54:43 2016
+Activity:   Coding/Debuging
+Comments:   for loop translation success, the regex is really 
+questionable but it works
+Date:       Sat Oct 8 02:23:31 2016
+Activity:   Coding/Debuging
+Comments:   major bug fixes, last and next implemented, subset 2 done
+
+Date:       Sun Oct 9 00:03:46 2016
+Activity:   Coding/Debuging
+Comments:   subset 3 started, fixed while loop mistranslation.
+
+Date:       Sun Oct 9 00:37:29 2016
+Activity:   Coding/Debuging
+Comments:   added a flag for dat pesky else printing that no one needed
+
+Date:       Sun Oct 9 00:48:49 2016
+Activity:   Coding/Debuging
+Comments:   added a few comments
+
+Date:       Sun Oct 9 12:36:08 2016
+Activity:   Coding/Debuging
+Comments:   bug fixes
+
+Date:       Sun Oct 9 14:09:24 2016
+Activity:   Coding/Debuging
+Comments:   ++ -- is now working i think... The self doubts are real...
+
+Date:       Sun Oct 9 14:12:16 2016
+Activity:   Coding/Debuging
+Comments:   ++ and -- fucked everything up...
+
+Date:       Sun Oct 9 14:20:55 2016
+Activity:   Coding/Debuging
+Comments:   found the bug chomp is being stupid
+
+Date:       Sun Oct 9 15:02:46 2016
+Activity:   Coding/Debuging
+Comments:   for loop fizes
+
+Date:       Sun Oct 9 15:29:52 2016
+Activity:   Coding/Debuging
+Comments:   double d works now
+
+Date:       Sun Oct 9 15:54:13 2016
+Activity:   Coding/Debuging
+Comments:   chuck the whole thing into an array, import sys implement
+
+Date:       Sun Oct 9 16:15:11 2016
+Activity:   Coding/Debuging
+Comments:   rstrip bug fixed
+
+Date:       Sun Oct 9 16:18:58 2016
+Activity:   Coding/Debuging
+Comments:   readlines -> readline ...
+
+Date:       Sun Oct 9 16:22:42 2016
+Activity:   Coding/Debuging
+Comments:   range +1
+
+Date:       Sun Oct 9 17:08:46 2016
+Activity:   Coding/Debuging
+Comments:   argv works now?
+
+Date:       Sun Oct 9 17:09:55 2016
+Activity:   Coding/Debuging
+Comments:   fixed trigger flag
+
+Date:       Sun Oct 9 18:29:43 2016
+Activity:   Coding/Debuging
+Comments:   more complex prints done and join
+
+Date:       Sun Oct 9 19:03:35 2016
+Activity:   Coding/Debuging
+Comments:   split implemented, subset 3 done i think
+
+Date:       Sun Oct 9 19:56:26 2016
+Activity:   Test writing
+Comments:   test.pl written up:
+
